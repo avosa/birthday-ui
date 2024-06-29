@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #ece9e6, #ffffff);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app {
+  text-align: center;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.message-container {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #f7f7f7;
+  border-radius: 8px;
+  box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.05);
+  font-size: 1.2rem;
+}
