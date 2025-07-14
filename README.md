@@ -41,8 +41,4 @@ This repository hosts a delightful frontend for the Birthday API, built with Rea
 - Contributions to this project are welcome! You can contribute by opening issues for feedback or improvements, and by submitting pull requests.
 - Your input is highly valued and appreciated!
 
-## Author
-
-[Webster Avosa](https://github.com/avosa)
-
 Enjoy!
